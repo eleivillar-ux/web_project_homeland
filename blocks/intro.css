@@ -1,0 +1,84 @@
+ .intro{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  max-width: 830px;
+  margin-left: 148px;
+  margin-right: 302px;
+  margin-top: 92px;
+}
+
+ .intro__title{
+  font-size: 54px;
+  font-weight: 900;
+  line-height: 1.07;
+  margin: 0;
+}
+
+  .intro__text{
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.41;
+  max-width: 738px;
+  margin-top: 40px;
+
+  }
+
+  .intro__author{
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.07;
+   max-width: 732px;
+   text-align: right;
+  }
+
+
+ .intro__description{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.63;
+  max-width: 722px;
+}
+
+@media screen and (max-width: 768px) {
+  .intro{
+    max-width: 720px;
+    margin: 90px 24px;;
+  }
+
+  .intro__title{
+  font-size: 45px;
+  max-width: 707px;
+}
+
+.intro__text{
+  max-width: 720px;
+}
+.intro__author{
+  max-width: 720px;}
+
+.intro__description{
+  max-width: 720px;}
+}
+
+
+@media screen and (max-width: 320px) {
+  .intro{
+    max-width: 288px;
+    margin: 64px 16px;}
+
+   .intro__title{
+  font-size: 32px;
+  max-width: 288px;
+}
+
+.intro__text{
+  max-width: 288px;
+}
+.intro__author{
+  max-width: 288px;}
+
+.intro__description{
+  max-width: 288px;}
+
+}
