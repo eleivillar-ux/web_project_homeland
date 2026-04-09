@@ -1,9 +1,10 @@
 HOMELAND
 
-La creación de este proyecto en el Sprint 5 nos permite hacer uso de todas las herramientas aprendidas en sprints anteriores,tanto en html como en css desde un enfoque más creativo, ya que en esta ocasión no se indican medidas de margin, padding y especificaciones de cada elemento como en briefs anteriores.
+La continuación de estre proyecto para este sprint 6, nos permite una vez más hacer uso de todas las herramientas aprendidas en sprints anteriores, desde la estructura básica de html y css hasta en esta ocasión el uso de grid para el posicionamiento de los elementos de una forma que facilite el diseño responsivo y una estructura más eficiente.
 
-Es una excelente forma de reforzar los conocimientos adquiridos, así como ubicar áreas de oportunidad para adquirir todas las habilidades necesarias para ser un programador full stack.
+A diferencia de sprints anteriores en donde se hizo uso de flexbox, en este sprint el uso de grid es indispensable para replicar la apariencia del diseño compartido en Figma, lo que nos permite presentar un diseño de página que se ajuste a los requerimientos del brief.
 
-Las tecnologías utilizadas en su creación son html, css, BEM, flexbox, metaetiquetas, diseño web responsivo, optimización de fuentes.
+
+Las tecnologías utilizadas en su creación son html, css, BEM, flexbox, metaetiquetas, diseño web responsivo, optimización de fuentes, grid, creación y fusión de ramas en git.
 
 https://eleivillar-ux.github.io/web_project_homeland/
