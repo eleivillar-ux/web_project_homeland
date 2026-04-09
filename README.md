@@ -1,9 +1,9 @@
 HOMELAND
 
-La creación de este proyecto en el Sprint 5 nos permite hacer uso de todas las herramientas aprendidas en sprints anteriores,tanto en html como en css desde un enfoque más creativo, ya que en esta ocasión no se indican medidas de margin, padding y especificaciones de cada elemento como en briefs anteriores.
+Como continuación del proyecto 5, en este proyecto número 6 además de hacer uso de todas las herramientas aprendidas en sprints anteriores, tanto estructura básica de html como el uso de BEM para asignar clases y puliendo el uso de css con diseños responsivos y botones interactivos para mejorar la experiencia del usuario, se refuerzan una vez más los conocimientos adquiridos.
 
-Es una excelente forma de reforzar los conocimientos adquiridos, así como ubicar áreas de oportunidad para adquirir todas las habilidades necesarias para ser un programador full stack.
+En este proyecto el uso de grid facilita el posicionamiento de los elementos en el diseño de la página para eficientar tiempos y favorecer el diseño responsivo de la misma.
 
-Las tecnologías utilizadas en su creación son html, css, BEM, flexbox, metaetiquetas, diseño web responsivo, optimización de fuentes.
+Las tecnologías utilizadas en su creación son html, css, BEM, grid, metaetiquetas, diseño web responsivo, optimización de fuentes.
 
-https://eleivillar-ux.github.io/web_project_homeland/
+

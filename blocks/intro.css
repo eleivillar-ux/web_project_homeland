@@ -43,8 +43,7 @@
 @media screen and (max-width: 768px) {
   .intro{
     max-width: 720px;
-    margin: 90px 24px;;
-  }
+    margin: 90px 24px 64px 24px;}
 
   .intro__title{
   font-size: 45px;
@@ -65,7 +64,7 @@
 @media screen and (max-width: 320px) {
   .intro{
     max-width: 288px;
-    margin: 64px 16px;}
+    margin: 0 auto;}
 
    .intro__title{
   font-size: 32px;
@@ -76,9 +75,11 @@
   max-width: 288px;
 }
 .intro__author{
-  max-width: 288px;}
+  max-width: 288px;
+  margin:0;}
 
 .intro__description{
-  max-width: 288px;}
+  max-width: 288px;
+  padding: 10px 16px 32px 16px;}
 
 }
